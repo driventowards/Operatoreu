@@ -19,10 +19,10 @@
   <br><br>
 </p>
 <p align="center">
-  <a href="https://twitter.com/n3ll41" target="_blank">
+  <a href="https://twitter.com/operatoreu" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%23A020F0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="mailto:n3ll4@protonmail.com">
+  <a href="mailto:operator6000@proton.me">
     <img src="https://img.shields.io/badge/Email-%2300FFFF.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Email">
   </a>
 </p>
