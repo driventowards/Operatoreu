@@ -41,6 +41,7 @@
 <h3 align="center">More about me:</h3>
 <p align="center">
   Visit <a href="https://oathnet.ru/">Oathnet</a>
+  Visit <a href="https://swat.wiki/u/op">Swat Wiki</a>
 </p>
 
 <p align="center">
