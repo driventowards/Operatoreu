@@ -2,16 +2,13 @@
   <a href="/gif/cyberpunk-gifs-fUKR4j" title="CyberPunk Gifs">
     <img src="https://i.makeagif.com/media/6-23-2015/fUKR4j.gif" alt="CyberPunk Gifs">
   </a>
-  <div style="font-size:11px;">make <a href="/" title="make a gif">cartoon GIFs</a> like this at MakeaGif</div>
 </p>
 
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0242.gif" alt="animated line" />
-</p>
+
 
 <h2 align="center">Welcome to my GitHub profile!</h2>
 <p align="center">
-  Hello! My name is Operator (op), and I'm a Senior Offensive Security Consultant with an interest in enterprise networking, cryptography, OS internals, and pentesting.
+  Hello! My name is convict (conv1), and I'm a Senior Offensive Security Consultant with an interest in enterprise networking, cryptography, OS internals, and pentesting.
 </p>
 
 <p align="center">
