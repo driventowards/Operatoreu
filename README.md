@@ -29,7 +29,7 @@
   <a href="https://twitter.com/operatoreu" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-F0F0F0.svg?style=for-the-badge&logo=Twitter&logoColor=Black" alt="Twitter">
   </a>
-  <a href="mailto:operatoreu@exploit.im">
+  <a href="mailto:operatoreu@gntf.xyz">
     <img src="https://img.shields.io/badge/Email-F0F0F0.svg?style=for-the-badge&logo=Gmail&logoColor=Black" alt="Email">
   </a>
 </p>
